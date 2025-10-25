@@ -36,5 +36,5 @@ File `tf_fashion_mnist.ipynb` bao gồm các bước sau:
 Code trong project này được thực hiện dựa trên hướng dẫn từ video YouTube sau:
 
 * **Tên Kênh:** CodeXplore
-* **Link:** [https://www.youtube.com/watch?v=a4-hBti_sLo](https://www.youtube.com/watch?v=a4-hBti_sLo)
+* **Link:** [https://www.youtube.com/watch?v=a4-hBti_sLo](https://www.youtube.com/watch?v=-E-s6QYy-Mc)
 ---
